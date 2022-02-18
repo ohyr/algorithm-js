@@ -9,3 +9,4 @@
 - [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)
 - [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
 - [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)
+- [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906?language=javascript)
