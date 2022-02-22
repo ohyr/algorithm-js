@@ -11,3 +11,4 @@
 - [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)
 - [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906?language=javascript)
 - [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)
+- [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)
