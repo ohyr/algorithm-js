@@ -22,3 +22,4 @@
 - [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925)
 - [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)
 - [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)
+- [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)
