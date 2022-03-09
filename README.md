@@ -26,3 +26,4 @@
 - [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)
 - [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932)
 - [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)
+- [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)
