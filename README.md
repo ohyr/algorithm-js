@@ -32,3 +32,4 @@
 - [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)
 - [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)
 - [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)
+- [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)
