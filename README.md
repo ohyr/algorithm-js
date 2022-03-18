@@ -35,3 +35,4 @@
 - [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)
 - [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)
 - [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)
+- [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)
