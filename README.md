@@ -38,3 +38,4 @@
 - [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)
 - [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)
 - [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)
+- [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)
