@@ -41,3 +41,4 @@
 - [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)
 - [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)
 - [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
+- [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)
