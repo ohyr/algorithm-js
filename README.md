@@ -49,3 +49,4 @@
 - [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)
 - [[1차]다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)
 - [[1차]비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
+- [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)
