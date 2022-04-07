@@ -53,6 +53,7 @@
 - [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)
 - [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)
 - [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
+- [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)
 
 ### Level 2 (진행중)
 
