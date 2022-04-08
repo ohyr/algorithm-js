@@ -58,3 +58,4 @@
 ### Level 2 (진행중)
 
 - [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)
+- [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
