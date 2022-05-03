@@ -72,3 +72,4 @@
 - [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)
 - [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)
 - [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980)
+- [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
