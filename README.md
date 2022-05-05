@@ -74,3 +74,4 @@
 - [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980)
 - [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
 - [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)
+- [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)
