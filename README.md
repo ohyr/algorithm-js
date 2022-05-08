@@ -77,3 +77,4 @@
 - [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)
 - [[3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)
 - [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)
+- [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)
