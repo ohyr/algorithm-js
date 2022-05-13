@@ -81,3 +81,4 @@
 - [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)
 - [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)
 - [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
+- [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994)
