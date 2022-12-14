@@ -2,7 +2,7 @@
 
 ## Programmers
 
-### Level 1 (완료)
+### Level 1
 
 - [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)
 - [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)
@@ -59,7 +59,7 @@
 - [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)
 - [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)
 
-### Level 2 (진행중)
+### Level 2
 
 - [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)
 - [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
