@@ -59,6 +59,7 @@
 - [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)
 - [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)
 - [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
+- [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)
 
 ### Level 2
 
