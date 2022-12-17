@@ -61,6 +61,7 @@
 - [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
 - [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)
 - [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)
+- [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)
 
 ### Level 2
 
