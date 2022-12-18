@@ -62,6 +62,7 @@
 - [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)
 - [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)
 - [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)
+- [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)
 
 ### Level 2
 
