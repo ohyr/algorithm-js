@@ -2,6 +2,10 @@
 
 ## Programmers
 
+### Level 0
+
+- [중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583)
+
 ### Level 1
 
 - [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)
