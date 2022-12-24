@@ -7,6 +7,7 @@
 - [중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583)
 - [머쓱이보다 키 큰 사람](https://school.programmers.co.kr/learn/courses/30/lessons/120585?language=javascript)
 - [두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120802)
+- [두 수의 차](https://school.programmers.co.kr/learn/courses/30/lessons/120803)
 
 ### Level 1
 
