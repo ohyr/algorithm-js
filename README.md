@@ -16,6 +16,7 @@
 - [배열 두 배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809)
 - [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810)
 - [중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811)
+- [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812)
 
 ### Level 1
 
