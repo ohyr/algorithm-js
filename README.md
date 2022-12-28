@@ -15,6 +15,7 @@
 - [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)
 - [배열 두 배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809)
 - [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810)
+- [중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811)
 
 ### Level 1
 
