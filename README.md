@@ -20,6 +20,7 @@
 - [짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813)
 - [피자 나눠 먹기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814)
 - [피자 나눠 먹기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815)
+- [피자 나눠 먹기 (3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816)
 
 ### Level 1
 
