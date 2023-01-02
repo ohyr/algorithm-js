@@ -22,6 +22,7 @@
 - [피자 나눠 먹기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815)
 - [피자 나눠 먹기 (3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816)
 - [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820)
+- [배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821)
 
 ### Level 1
 
