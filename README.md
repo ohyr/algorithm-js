@@ -26,6 +26,7 @@
 - [아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819)
 - [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820)
 - [배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821)
+- [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120822)
 
 ### Level 1
 
