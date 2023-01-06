@@ -94,6 +94,7 @@
 - [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)
 - [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)
 - [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)
+- [명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)
 
 ### Level 2
 
