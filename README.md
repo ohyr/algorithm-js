@@ -29,6 +29,7 @@
 - [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120822)
 - [직각삼각형 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120823)
 - [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824)
+- [문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825)
 
 ### Level 1
 
