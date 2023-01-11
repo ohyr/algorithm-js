@@ -32,6 +32,7 @@
 - [문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825)
 - [특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826)
 - [각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829)
+- [양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830)
 
 ### Level 1
 
