@@ -33,6 +33,7 @@
 - [특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826)
 - [각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829)
 - [양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830)
+- [짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831)
 
 ### Level 1
 
