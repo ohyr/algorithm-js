@@ -39,6 +39,7 @@
 - [진료순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835)
 - [순서쌍의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120836)
 - [개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837)
+- [모스부호 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838)
 
 ### Level 1
 
