@@ -41,6 +41,7 @@
 - [개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837)
 - [모스부호 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838)
 - [가위 바위 보](https://school.programmers.co.kr/learn/courses/30/lessons/120839)
+- [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)
 
 ### Level 1
 
